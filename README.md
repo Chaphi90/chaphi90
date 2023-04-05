@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![Chantel's Github Banner](assets/GitHubHeader1.png)
+
+### 📫 How to reach me: ChantelPhillips@gmail.com
 
 <!--
 **Chaphi90/chaphi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
