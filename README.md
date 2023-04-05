@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Testing
+![Chantel's Github Banner](assets/GitHubHeader1.png)
 
 <!--
 **Chaphi90/chaphi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
