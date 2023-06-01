@@ -7,7 +7,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/chaphi90)
 
 
-I'm a software / support enthusiast who loves to be apart of a community of great people. I have been a technology professional for the past 10 years in the hardware, software, networking, and A/V sectors. While at Key Digital, I was exposed to optimizing software and hardware work together for optimal performance. I was involved in firmware corrections and saw firsthand how essential software was. That excites me; I love finding inefficiencies and building great solutions.
+I'm a software / support enthusiast who loves to be a part of a community of great people. I have been a technology professional for the past 10 years in the hardware, software, networking, and A/V sectors. While at Key Digital, I was exposed to optimizing software and hardware work together for optimal performance. I was involved in firmware corrections and saw firsthand how essential software was. That excites me; I love finding inefficiencies and building great solutions.
 
 One of my goals is to inspire diversity and inclusiveness in the software community. It's an excellent opportunity for everyone involved when different voices can be heard.
 
