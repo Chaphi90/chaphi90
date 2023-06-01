@@ -7,7 +7,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/chaphi90)
 
 
-### I'm a software / support enthusiast who loves to be apart of a community of great people. 
+## I'm a software / support enthusiast who loves to be apart of a community of great people. 
 
 <!--
 **Chaphi90/chaphi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
