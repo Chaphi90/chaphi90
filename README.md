@@ -14,10 +14,10 @@ One of my goals is to inspire diversity and inclusiveness in the software commun
 I built a website for my baking business and fell in love! That led to completing a bootcamp for full-stack web development at NuCamp. I started by learning HTML, CSS, and JavaScript. I then moved on to modern web development such as React, React Native, Node.JS, Docker, Express, MongoDB. My 6th-grade teacher Ms. Linton always called me her "little engineer" because of my love of math and science. Now I've found a way to use those passions.
 
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on fun OOP project build
+- 👯 I’m looking to collaborate on fun Web3 project builds
 - 💬 Ask me about anything pastry and sweets
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I adopted a senior Yorkie 4 years ago and I am an identical twin.
+- ⚡ Fun fact: I adopted a senior Yorkie 5 years ago and I'm an identical twin (Big sis here, 2 minutes older).
 
 <!--
 **Chaphi90/chaphi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
